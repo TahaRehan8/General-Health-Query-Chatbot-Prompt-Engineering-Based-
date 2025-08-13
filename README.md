@@ -22,9 +22,8 @@ This chatbot is **not a substitute for professional medical advice**. It is desi
 
 ### 1️⃣ Clone this repository
 
-```bash
-git clone https://github.com/your-username/medical-chatbot.git
-cd medical-chatbot
+```bash[
+git clone https://github.com/your-username/medical-chatbot.git](https://github.com/TahaRehan8/General-Health-Query-Chatbot-Prompt-Engineering-Based-.git)
 ```
 
 ### 2️⃣ Create a virtual environment
